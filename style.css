@@ -51,6 +51,10 @@ img {
   margin: 0 1rem 0 0; /*top-right-bottom-left*/
 }
 
+#navbar a.navlink-spacing-custom:hover{
+  color: hsla(189, 40%, 80%, 1);
+}
+
 /* WELCOME SECTION */
 #welcome-section {
   background: lightslategray;
